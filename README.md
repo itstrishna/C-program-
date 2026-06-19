@@ -1,4 +1,4 @@
-# C-program-
+# calculator.c
 #include <stdio.h>
 
 int main() {
